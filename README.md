@@ -51,3 +51,8 @@ Failure to do so will result in a finding being ineligible for any bounties.
 * Only unknown vulnerabilities will be awarded a bounty; in case of duplicate reports, the first report will be awarded the bounty.
 * Public disclosure of the vulnerability, before explicit consent from Yin Finance AG to do so, will make the vulnerability ineligible for a bounty.
 * Attempting to exploit the vulnerability in a public Ethereum network will also make it ineligible for a bounty.
+
+## Contact us
+[Telegram](https://t.me/YinFinance)
+[Discord](https://discord.com/invite/XV2FF2QUPR)
+[Twitter](https://twitter.com/YinFinance)
