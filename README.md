@@ -53,6 +53,6 @@ Failure to do so will result in a finding being ineligible for any bounties.
 * Attempting to exploit the vulnerability in a public Ethereum network will also make it ineligible for a bounty.
 
 ## Contact us
-[Telegram](https://t.me/YinFinance)
-[Discord](https://discord.com/invite/XV2FF2QUPR)
-[Twitter](https://twitter.com/YinFinance)
+* [Telegram](https://t.me/YinFinance)
+* [Discord](https://discord.com/invite/XV2FF2QUPR)
+* [Twitter](https://twitter.com/YinFinance)
