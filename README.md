@@ -3,13 +3,21 @@ A bug bounty program for Yin Finance’s smart contracts is now live. We intend 
 ## Rewards
 
 Vulnerability reports will be scored using the CVSS v3 standard. The reward amounts for different types of vulnerabilities are:
+
 ⚡️ Critical (CVSS 9.0–10.0)
+
 → $5,000 - $50,000
+
 ⚠️ Major (CVSS 7.0–8.9)
+
 → $2,500 - $5,000​
+
 🔔 Medium (CVSS 4.0–6.9)
+
 → $1,000 - $2,500
+
 💣 Low (CVSS 1.0–3.9)
+
 → $500 - $1,000
 
 Rewards will be awarded at the sole discretion of Yin Finance AG. Quality of the report and reproduction instructions can impact the reward. Rewards are denominated and paid out in USD. If both parties agree, rewards can also be paid out in crypto.
