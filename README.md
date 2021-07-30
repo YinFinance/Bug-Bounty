@@ -24,6 +24,8 @@ In order to report a vulnerability, please write an email to security@yin.financ
 We will make our best effort to reply in a timely manner and provide a timeline for resolution.
 Please include a detailed report on the vulnerability with clear reproduction steps. The quality of the report can impact the reward amount.
 ## Github issuse report
+* Use this [link](https://github.com/YinFinance/Bug-Bounty/issues/new?assignees=&labels=&template=bug_report.md&title=) to create the issue.
+
 
 Failure to do so will result in a finding being ineligible for any bounties.
 
